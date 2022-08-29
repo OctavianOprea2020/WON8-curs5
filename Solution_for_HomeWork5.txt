@@ -1,0 +1,111 @@
+Sirul este:
+Sirul [0] = 1
+Sirul [1] = 10
+Sirul [2] = 5
+Sirul [3] = 25
+Sirul [4] = 0
+Sirul [5] = -200
+Sirul [6] = 1299
+Sirul [7] = 0
+Sirul [8] = -77
+Sirul [9] = 500
+
+(1) Scrieti o functie care primeste un sir de numere intregi si returneaza suma lor
+Suma sirului este: 1563
+
+(2) Scrieti o functie care primeste un sir de numere intregi si returneaza numarul de elemente impare
+Numarul de elemente impare este: 5
+
+(3) Scrieti o functie care primeste un sir de numere intregi si un alt numar intreg.
+    Returnati toate numerele mai mari decat numarul primit.
+Introduceti nr. intreg: 4
+Sunt 5 numere din sir mai mari decat numarul 4:
+10
+5
+25
+1299
+500
+
+(4) Scrieti o functie care primeste un numar intreg reprezentand targetul de donatii.
+    Donatiile se vor face cu ajutorul obiectului Random.
+    Primim donatii pana cand ajungem la suma dorita.
+    Cand ajungem la suma dorita afisam un mesaj de succes.
+Donatia 1 a fost in valoare de 49278, iar suma donata pana acum este de 49278.
+Donatia 2 a fost in valoare de 40978, iar suma donata pana acum este de 90256.
+Donatia 3 a fost in valoare de 13584, iar suma donata pana acum este de 103840.
+Donatia 4 a fost in valoare de 24987, iar suma donata pana acum este de 128827.
+Donatia 5 a fost in valoare de 79894, iar suma donata pana acum este de 208721.
+Donatia 6 a fost in valoare de 69294, iar suma donata pana acum este de 278015.
+Donatia 7 a fost in valoare de 6901, iar suma donata pana acum este de 284916.
+Donatia 8 a fost in valoare de 51916, iar suma donata pana acum este de 336832.
+Donatia 9 a fost in valoare de 7412, iar suma donata pana acum este de 344244.
+Donatia 10 a fost in valoare de 48586, iar suma donata pana acum este de 392830.
+Donatia 11 a fost in valoare de 56547, iar suma donata pana acum este de 449377.
+Donatia 12 a fost in valoare de 23625, iar suma donata pana acum este de 473002.
+Donatia 13 a fost in valoare de 14132, iar suma donata pana acum este de 487134.
+Donatia 14 a fost in valoare de 99370, iar suma donata pana acum este de 586504.
+Donatia 15 a fost in valoare de 53856, iar suma donata pana acum este de 640360.
+Donatia 16 a fost in valoare de 92222, iar suma donata pana acum este de 732582.
+Donatia 17 a fost in valoare de 78082, iar suma donata pana acum este de 810664.
+Donatia 18 a fost in valoare de 89086, iar suma donata pana acum este de 899750.
+Donatia 19 a fost in valoare de 46283, iar suma donata pana acum este de 946033.
+Donatia 20 a fost in valoare de 95094, iar suma donata pana acum este de 1041127.
+
+Pentru donatia necesara in valoare de 1000000 a fost stransa suma de 1041127.
+A fost stransa suma necesara.
+
+(5) Rescrieti functia de la 4 cu urmatoarea modificare: functia va primi si un numar maxim de donatii.
+    Cand acesta se termina, campania se va incheia.
+Donatia 1 a fost in valoare de 30586, iar suma donata pana acum este de 30586.
+Donatia 2 a fost in valoare de 29038, iar suma donata pana acum este de 59624.
+Donatia 3 a fost in valoare de 64465, iar suma donata pana acum este de 124089.
+Donatia 4 a fost in valoare de 1920, iar suma donata pana acum este de 126009.
+Donatia 5 a fost in valoare de 52887, iar suma donata pana acum este de 178896.
+Donatia 6 a fost in valoare de 86424, iar suma donata pana acum este de 265320.
+Donatia 7 a fost in valoare de 95286, iar suma donata pana acum este de 360606.
+Donatia 8 a fost in valoare de 27038, iar suma donata pana acum este de 387644.
+Donatia 9 a fost in valoare de 89314, iar suma donata pana acum este de 476958.
+Donatia 10 a fost in valoare de 22694, iar suma donata pana acum este de 499652.
+Donatia 11 a fost in valoare de 64158, iar suma donata pana acum este de 563810.
+Donatia 12 a fost in valoare de 98735, iar suma donata pana acum este de 662545.
+Donatia 13 a fost in valoare de 47325, iar suma donata pana acum este de 709870.
+Donatia 14 a fost in valoare de 50955, iar suma donata pana acum este de 760825.
+Donatia 15 a fost in valoare de 71935, iar suma donata pana acum este de 832760.
+Donatia 16 a fost in valoare de 52061, iar suma donata pana acum este de 884821.
+Donatia 17 a fost in valoare de 20881, iar suma donata pana acum este de 905702.
+Donatia 18 a fost in valoare de 89669, iar suma donata pana acum este de 995371.
+Donatia 19 a fost in valoare de 41477, iar suma donata pana acum este de 1036848.
+
+Pentru donatia necesara in valoare de 1000000 a fost stransa suma de 1036848.
+Nr. maxim de donatii a fost 20.
+A fost stransa suma necesara printr-un nr. de donatii mai mic decat nr. maxim necesar.
+
+
+(5) Rescrieti functia de la 4 cu urmatoarea modificare: functia va primi si un numar maxim de donatii.
+    Cand acesta se termina, campania se va incheia.
+Donatia 1 a fost in valoare de 92354, iar suma donata pana acum este de 92354.
+Donatia 2 a fost in valoare de 70519, iar suma donata pana acum este de 162873.
+Donatia 3 a fost in valoare de 21259, iar suma donata pana acum este de 184132.
+Donatia 4 a fost in valoare de 68723, iar suma donata pana acum este de 252855.
+Donatia 5 a fost in valoare de 80276, iar suma donata pana acum este de 333131.
+Donatia 6 a fost in valoare de 35440, iar suma donata pana acum este de 368571.
+Donatia 7 a fost in valoare de 69849, iar suma donata pana acum este de 438420.
+Donatia 8 a fost in valoare de 68919, iar suma donata pana acum este de 507339.
+Donatia 9 a fost in valoare de 88760, iar suma donata pana acum este de 596099.
+Donatia 10 a fost in valoare de 46942, iar suma donata pana acum este de 643041.
+
+Pentru donatia necesara in valoare de 1000000 a fost stransa suma de 643041.
+Nr. maxim de donatii a fost 10.
+A fost atins nr. maxim de donatii, dar nu a fost stransa suma necesara.
+
+(6) Scrieti o functie care primeste un string cu o fraza (mai multe propozitii despartite prin punct).
+    Printati fiecare propozitie pe o linie noua.
+
+Fraza initiala este:
+'Aceasta este prima linie. Aceasta este a doua linie . Aceasta este a treia linie.Iar aceasta este a patra linie.'
+
+Propozitiile sunt:
+(0) 'Aceasta este prima linie.'
+(1) 'Aceasta este a doua linie.'
+(2) 'Aceasta este a treia linie.'
+(3) 'Iar aceasta este a patra linie.'
